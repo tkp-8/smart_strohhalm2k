@@ -1,1 +1,1 @@
-"smart_strohhalm2k" 
+# smart_strohhalm2k
